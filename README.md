@@ -1,37 +1,41 @@
-# Tala's Personal Portfolio
+# 🌟 Tala's Portfolio
 
-This is a personal portfolio webpage built with **HTML** and **CSS**. The portfolio showcases Tala's background, projects, and contact information.
+Welcome to **Tala's Personal Portfolio** — a sleek, modern showcase of skills, projects, and passion for AI & tech!  
 
----
 
-## Features
 
-- Semantic HTML5 structure including `header`, `aside`, `footer`, and multiple `section` elements.
-- An interactive sidebar (`aside`) with quick links fixed on the right side.
-- Usage of `<details>` and `<summary>` for expandable content.
-- An abbreviation tag `<abbr>` for accessibility and clarification.
-- Multiple internal and external hyperlinks.
-- A figure with a caption illustrating Tala's affiliation.
-- Responsive design with modern typography using Google Fonts.
-- Visually enhanced using CSS including shadows, hover effects, and color transitions.
+## 🚀 Features
 
----
+- Semantic HTML5 structure with `<header>`, `<aside>`, `<footer>`, and multiple `<section>`s  
+- Expandable content with `<details>` & `<summary>`  
+- Fixed sidebar for quick navigation 🔗  
+- Interactive internal & external links 🌐  
+- Clean, modern typography (Google Fonts)  
+- Stylish CSS effects: shadows, hover animations, and color transitions 🎨  
+- Bold abbreviations & figure captions for clarity and emphasis  
 
-## Technologies Used
 
-- HTML5
-- CSS3
-- Google Fonts (Raleway & Montserrat)
 
----
+## 🛠️ Tech Stack
 
-## How to Use
+- **HTML5**  
+- **CSS3**  
+- Google Fonts: Raleway & Montserrat  
 
-1. Clone or download this repository.
-2. Open `index.html` in any modern web browser.
-3. Navigate through the sections using the header navigation or the sidebar toggle button.
+
+## 📸 Preview
+
+![Portfolio Screenshot](https://your-image-link-here.com/screenshot.png)  
+*Replace this link with your actual portfolio screenshot*
 
 ---
 
-## File Structure
+## 📬 Connect with Tala
 
+- [GitHub](https://github.com/talamh0) 🐙  
+- [LinkedIn](https://www.linkedin.com/in/tala-mohammed) 🔗  
+- [Twitter](https://twitter.com/Talacoding) 🐦
+
+<img width="1440" height="752" alt="Screenshot 2025-09-26 at 7 34 03 PM" src="https://github.com/user-attachments/assets/105167c9-42fe-4e71-9d8a-80a9cfdded9b" />
+
+<img width="1440" height="785" alt="Screenshot 2025-09-26 at 7 33 33 PM" src="https://github.com/user-attachments/assets/3e0c3d00-a926-4ada-90e6-248cbabcfa0c" />
