@@ -25,8 +25,11 @@ Welcome to **Tala's Personal Portfolio** — a sleek, modern showcase of skills,
 
 ## 📸 Preview
 
-![Portfolio Screenshot](https://your-image-link-here.com/screenshot.png)  
-*Replace this link with your actual portfolio screenshot*
+<img width="1440" height="752" alt="Screenshot 2025-09-26 at 7 34 03 PM" src="https://github.com/user-attachments/assets/105167c9-42fe-4e71-9d8a-80a9cfdded9b" />
+
+---
+
+<img width="1440" height="785" alt="Screenshot 2025-09-26 at 7 33 33 PM" src="https://github.com/user-attachments/assets/3e0c3d00-a926-4ada-90e6-248cbabcfa0c" />
 
 ---
 
@@ -36,6 +39,4 @@ Welcome to **Tala's Personal Portfolio** — a sleek, modern showcase of skills,
 - [LinkedIn](https://www.linkedin.com/in/tala-mohammed) 🔗  
 - [Twitter](https://twitter.com/Talacoding) 🐦
 
-<img width="1440" height="752" alt="Screenshot 2025-09-26 at 7 34 03 PM" src="https://github.com/user-attachments/assets/105167c9-42fe-4e71-9d8a-80a9cfdded9b" />
 
-<img width="1440" height="785" alt="Screenshot 2025-09-26 at 7 33 33 PM" src="https://github.com/user-attachments/assets/3e0c3d00-a926-4ada-90e6-248cbabcfa0c" />
