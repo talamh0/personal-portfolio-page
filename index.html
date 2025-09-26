@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tala's Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>Tala's Portfolio</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Toggle Button -->
+  <div class="toggle-btn" onclick="toggleAside()">☰</div>
+
+  <!-- Aside Quick Links -->
+  <aside id="sidebar">
+    <h3>Quick Links</h3>
+    <ul>
+      <li><a href="#about">Go to About</a></li>
+      <li><a href="#projects">Go to Projects</a></li>
+      <li><a href="#contact">Go to Contact</a></li>
+    </ul>
+  </aside>
+
+  <!-- Hero -->
+  <section class="hero">
+    <img src="images/avatar.png" alt="Tala's Photo" class="hero-img">
+    <h2>Hi, I’m Tala! 👋</h2>
+    <p class="subtitle">A Computer Science student passionate about AI and technology.</p>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="content-box">
+    <h2>About Me</h2>
+    <p>
+      I’m a senior Computer Science student with a strong passion for Artificial Intelligence (AI) and technology.  
+      AI Graduate from <abbr title="King Abdullah University of Science and Technology" class="highlight">KAUST Academy</abbr>.  
+      My expertise includes programming, software development, and algorithm optimization.  
+      Beyond my studies, I love sharing knowledge and contributing to tech and community initiatives.
+    </p>
+  </section>
+
+  <!-- Projects -->
+  <section id="projects" class="projects-section">
+    <h2>My Projects</h2>
+    <div class="projects-grid">
+      <a href="https://github.com/talamh0/Recognizing-Sports-Movements-from-Video-Using-YOLOv8" target="_blank" class="project-card" style="background-image: url('images/yolo.png');">
+        <div class="overlay">
+          <h3>Recognizing Sports Movements</h3>
+          <p>AI model for classifying sports movements using deep learning.</p>
+        </div>
+      </a>
+      <a href="https://github.com/talamh0/School-Management-System" target="_blank" class="project-card" style="background-image: url('images/public.avif');">
+        <div class="overlay">
+          <h3>School Management System</h3>
+          <p>A Java-based School Management System with a GUI using Swing and MySQL.</p>
+        </div>
+      </a>
+      <a href="https://github.com/talamh0/Applicant-Management-System" target="_blank" class="project-card" style="background-image: url('images/Applicant.jpg');">
+        <div class="overlay">
+          <h3>Applicant Management System</h3>
+          <p>A system to manage applicants efficiently with automation.</p>
+        </div>
+      </a>
+      <a href="https://github.com/talamh0/GRC-Agent" target="_blank" class="project-card" style="background-image: url('images/grc.jpg');">
+        <div class="overlay">
+          <h3>GRC Agent</h3>
+          <p>Intelligent agent for governance, risk, and compliance analysis.</p>
+        </div>
+      </a>
+    </div>
+  </section>
+
+
+
+  <!-- Extra Section: Fun Fact -->
+ <section class="content-box">
+  <h2> A Fun Fact</h2>
+  <details>
+    <summary>Want to know something about me?</summary>
+    <p>I drink way too much coffee — it's basically my favorite debugging tool ☕💻</p>
+  </details>
+</section>
+
+  <!-- Figure Example -->
+  <section class="content-box">
+  <figure class="highlighted-figure">
+  <img src="images/ksu.png" alt="KSU CS Student" style="width: 10%">
+  <figcaption class="highlight">
+    A Computer Science student at King Saud University — active in student clubs and passionate about learning, tech events, and creative collaboration 🤝💡
+  </figcaption>
+</figure>
+  </section>
+<!-- Contact -->
+  <section id="contact" class="contact-section">
+    <h2>📫 Contact</h2>
+    <div class="contact-boxes">
+      <a href="https://www.linkedin.com/in/tala-mohammed" target="_blank" class="contact-box linkedin" id="external-link">
+        <span class="icon">🔗</span>
+        <span class="text">LinkedIn: @tala mohammed</span>
+      </a>
+      <a href="https://twitter.com/Talacoding" target="_blank" class="contact-box twitter" id="external-link">
+        <span class="icon">🐦</span>
+        <span class="text">X (Twitter): @Talacoding</span>
+      </a>
+      <a href="https://github.com/talamh0" target="_blank" class="contact-box github" id="external-link">
+        <span class="icon">🐙</span>
+        <span class="text">GitHub: talamh0</span>
+      </a>
+    </div>
+  </section>
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Tala. All Rights Reserved.</p>
+  </footer>
+ 
+  <script>
+    function toggleAside() {
+      document.getElementById("sidebar").classList.toggle("active");
+    }
+  </script>
+
+</body>
+</html>
