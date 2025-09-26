@@ -2,7 +2,7 @@
 
 Welcome to **Tala's Personal Portfolio** — a sleek, modern showcase of skills, projects, and passion for AI & tech!  
 
-## 📸 Preview
+## Preview
 
 <img width="1440" height="752" alt="Screenshot 2025-09-26 at 7 34 03 PM" src="https://github.com/user-attachments/assets/105167c9-42fe-4e71-9d8a-80a9cfdded9b" />
 
