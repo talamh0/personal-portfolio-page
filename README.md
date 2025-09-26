@@ -1,6 +1,5 @@
 # 🌟 Tala's Portfolio
 
-Welcome to **Tala's Personal Portfolio** — a sleek, modern showcase of skills, projects, and passion for AI & tech!  
 
 ## Preview
 
