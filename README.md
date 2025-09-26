@@ -2,9 +2,15 @@
 
 Welcome to **Tala's Personal Portfolio** — a sleek, modern showcase of skills, projects, and passion for AI & tech!  
 
+## 📸 Preview
 
+<img width="1440" height="752" alt="Screenshot 2025-09-26 at 7 34 03 PM" src="https://github.com/user-attachments/assets/105167c9-42fe-4e71-9d8a-80a9cfdded9b" />
 
-## 🚀 Features
+---
+
+<img width="1440" height="785" alt="Screenshot 2025-09-26 at 7 33 33 PM" src="https://github.com/user-attachments/assets/3e0c3d00-a926-4ada-90e6-248cbabcfa0c" />
+
+## Features
 
 - Semantic HTML5 structure with `<header>`, `<aside>`, `<footer>`, and multiple `<section>`s  
 - Expandable content with `<details>` & `<summary>`  
@@ -23,13 +29,6 @@ Welcome to **Tala's Personal Portfolio** — a sleek, modern showcase of skills,
 - Google Fonts: Raleway & Montserrat  
 
 
-## 📸 Preview
-
-<img width="1440" height="752" alt="Screenshot 2025-09-26 at 7 34 03 PM" src="https://github.com/user-attachments/assets/105167c9-42fe-4e71-9d8a-80a9cfdded9b" />
-
----
-
-<img width="1440" height="785" alt="Screenshot 2025-09-26 at 7 33 33 PM" src="https://github.com/user-attachments/assets/3e0c3d00-a926-4ada-90e6-248cbabcfa0c" />
 
 ---
 
