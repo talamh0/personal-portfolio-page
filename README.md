@@ -29,12 +29,5 @@
 
 
 
----
-
-## 📬 Connect with Tala
-
-- [GitHub](https://github.com/talamh0) 🐙  
-- [LinkedIn](https://www.linkedin.com/in/tala-mohammed) 🔗  
-- [Twitter](https://twitter.com/Talacoding) 🐦
 
 
